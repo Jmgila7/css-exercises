@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+#one{
+background-color: black;
+color: white;
+}
+
+#two{
+background-color: yellow;
+}
+
+.together{
+font-size: 28px;
+font-family: Helvetica, times new roman, sans-serif;
+}
