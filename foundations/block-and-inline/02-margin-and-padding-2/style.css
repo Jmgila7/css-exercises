@@ -18,3 +18,22 @@ body {
 button {
   background: white;
 }
+
+.card{
+  padding: 10px;
+}
+.button-container{
+  margin: 10px auto;
+  padding: 10px;
+  text-align: center;
+}
+
+.content{
+   padding: 15px;
+}
+
+button{
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+}
